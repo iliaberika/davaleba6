@@ -1,0 +1,315 @@
+@import url("./font.css");
+
+body {
+    font-family: "poppins";
+}
+
+.menu li {
+    position: relative;
+    display: inline-block;
+    color: #ffffff;
+
+    margin-left: 139px;
+    margin-top: 32px;
+    font-size: 18px;
+
+
+}
+
+.img {
+    position: absolute;
+    width: 9px;
+    margin-left: 15px;
+    margin-top: 1px;
+}
+
+
+
+.img1 {
+    position: absolute;
+
+    width: 1510px;
+    height: 324px;
+    opacity: 0.60;
+
+
+
+}
+
+
+
+
+
+
+
+.home {
+    color: #5863F8;
+}
+
+
+
+.big {
+    font-size: 42px;
+}
+
+.menu1 {
+    position: absolute;
+    color: #ffffff;
+    text-align: left;
+    margin-top: 103px;
+    margin-left: 139px;
+
+
+}
+
+.lai {
+    display: inline-block;
+}
+
+.nxt li {
+    display: inline-block;
+    margin-top: 30px;
+    font-size: 18px;
+
+}
+
+
+
+
+.abus li {
+    position: relative;
+    margin-top: 350px;
+    margin-left: 139px;
+    font-size: 14px;
+    color: #5863F8;
+
+}
+
+.p {
+    font-size: 42px;
+    margin-left: 139px;
+    margin-top: 10px;
+    color: #000000;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.column_div {
+    display: flex;
+    flex-direction: row;
+}
+
+.info_div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 65%;
+}
+
+.quality_text {
+    margin-bottom: 10px;
+}
+
+.title_text {
+    margin-bottom: 15px;
+}
+
+.photo_div {
+    margin-right: 10px;
+}
+
+.box {
+    display: flex;
+    margin-top: 55px;
+
+
+
+    width: 536px;
+    height: 190px;
+    border: 16px;
+    background-color: #F8F8F8;
+    margin-left: 139px;
+
+
+
+
+}
+
+
+
+.quality {
+    font-family: "poppins";
+    font-size: 14px;
+    font-weight: bold;
+    font-style: normal;
+    text-align: left;
+    color: #5863f8;
+
+
+}
+
+.isari {
+
+    width: 30px;
+    height: 190px;
+    font-family: "poppins";
+    font-size: 20px;
+    background-color: #5863F8;
+    text-align: center;
+    padding-top: 88px;
+
+}
+
+.roomsize {
+    font-size: 18px;
+    font-weight: normal;
+    font-style: normal;
+    text-align: left;
+
+
+
+}
+
+.description {
+    font-size: 14px;
+    font-weight: 500;
+    font-style: normal;
+    text-align: left;
+    color: #b1b1b1;
+
+}
+
+.roomimg {
+    width: 168px;
+    height: 190px;
+
+}
+
+.form {
+    margin-top: 126px;
+    font-size: 13px;
+    font-weight: 500;
+    font-style: normal;
+    text-align: left;
+    color: #5863f8;
+
+}
+
+.submit {
+    position: absolute;
+    bottom: 0;
+    width: 260px;
+    height: 60px;
+    background-color: #5863F8;
+    color: white;
+    border-color: transparent;
+}
+
+.logos {
+    width: 35px;
+    height: 35px;
+
+    margin-top: 20px;
+    margin-left: 139px;
+    margin-right: 0;
+
+}
+
+.footer {
+    position: absolute;
+    width: 1366px;
+    height: 395px;
+    background-color: #121212;
+
+}
+
+
+
+.white {
+    font-size: 24px;
+    font-weight: bold;
+    font-style: normal;
+    text-align: left;
+    color: #ffffff;
+    margin-top: 93px;
+    margin-left: 139px;
+}
+
+.white1 {
+    font-size: 14px;
+    font-weight: 500;
+    font-style: normal;
+    text-align: left;
+    color: #b1b1b1;
+    margin-left: 139px;
+    margin-top: 22px;
+
+}
+
+.last {
+    font-size: 14px;
+    font-weight: 500;
+    font-style: normal;
+    text-align: left;
+    color: #B1B1B1;
+    margin-left: 139px;
+    margin-top: 56px;
+}
+
+.blue {
+    font-size: 14px;
+    font-weight: 500;
+    font-style: normal;
+    text-align: left;
+    color: #5863f8;
+}
+
+.inputs {
+    width: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 50px;
+    margin-left: 2%;
+}
+
+.input_div {
+    position: relative;
+    margin-right: 50px;
+    display: flex;
+    flex-direction: column;
+    width: 260px;
+}
+
+.date_text {
+
+    width: 86px;
+    height: 16px;
+
+
+    font-family: "Poppins";
+    font-size: 13px;
+    font-weight: 500;
+    font-style: normal;
+    text-align: left;
+    color: #5863f8;
+}
+
+.label_input {
+
+    width: 260px;
+    height: 60px;
+
+    border-color: #ebebeb;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.hrefs {
+    z-index: 2;
+    position: relative;
+}
